@@ -1,0 +1,39 @@
+body{
+    margin: 10px 50px;
+}
+table{
+    width: 100%;
+    padding: 40px;
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+
+}
+img{
+    width:400px;
+    height: 300px;
+}
+a{
+    color: darkred;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 3px;
+    font-weight: normal;
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+    border: 3px solid darkred;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    margin: 0 200px
+}
+span{
+    color:green;
+    font-weight: bold;
+}
